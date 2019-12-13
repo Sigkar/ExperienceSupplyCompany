@@ -1,6 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `Experience Supply Company`,
+    tagline: `The Independant Development of Experience Supply Company`,
+    taline_1: `Independant Development`,
+    tagline_2: `Experience Supply Company`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
